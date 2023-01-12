@@ -1,0 +1,30 @@
+
+.carousel__box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 130px;
+    padding-bottom: 70px;
+}
+
+.carousel__box-img {
+    display: block;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+/* Carousel example react saytidan olingan kodlar classlarni men nomlamaganman */
+
+.dZkckO {
+    right: 22px;
+}
+
+.fPimMH {
+    width: 1200px;
+    top: 20%;
+}

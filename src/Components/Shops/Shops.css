@@ -1,0 +1,26 @@
+.shop__top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+
+.shop__top-title {
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.shop__top-link {
+    font-size: 17px;
+    font-weight: 300;
+    color: #8D8D9F;
+    text-decoration: none;
+}
+
+.shops__bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
