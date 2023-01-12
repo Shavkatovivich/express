@@ -1,13 +1,14 @@
+
+import React from 'react';
 import Homepage from "./Components/Homepage/Homepage"
-import "./App.css"
 import { Route, Routes } from "react-router-dom";
 import Header from "./Components/Header/Header";
 import Allshop from "./Components/AllShop/Allshop";
+import "./App.css"
 
 function App() {
   return (
     <div className="App">
-
         <Routes>
           <Route element={<Header />}>
             <Route index element={<Homepage />} />

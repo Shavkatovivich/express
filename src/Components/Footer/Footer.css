@@ -1,0 +1,36 @@
+
+.footer {
+    width: 100%;
+    padding: 50px 0;
+    background-color: #F6F6FB;
+}
+
+
+.footer__nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    color: gray;
+    margin-right: 40px;
+}
+
+.footer__bottom-text {
+    font-size: 16px;
+    font-weight: 500;
+    color: gray;
+}
+
+.footer__bottom {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.footer__bottom-social {
+    display: flex;
+    align-items: center;
+}
+
+.footer__bottom-social i {
+    margin-right: 15px;
+    cursor: pointer;
+}

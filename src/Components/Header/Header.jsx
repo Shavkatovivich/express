@@ -9,6 +9,7 @@ import SimpleMap from './SimpleMap/SimpleMap';
 // import images 
 import siteLogo from "../../Assets/Img/express-logo.png"
 import { TextField } from '@mui/material';
+import Footer from '../Footer/Footer';
 
 
 
@@ -149,6 +150,7 @@ const Header = () => {
             </div>
 
             <Outlet />
+            <Footer/>
         </div>
     );
 };
